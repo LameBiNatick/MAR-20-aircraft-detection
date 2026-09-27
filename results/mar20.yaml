@@ -1,4 +1,4 @@
-path: C:/Users/NAITIK/Desktop/clg/mo/MAR20_FULL/MAR20_YOLO
+path: MAR20_YOLO
 
 train: images/train
 val: images/val
